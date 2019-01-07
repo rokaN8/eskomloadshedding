@@ -1,4 +1,4 @@
-# EskomLoadShedding
+# Eskom Loadshedding
 
 WIP Pi2b loadshedding notification
 
